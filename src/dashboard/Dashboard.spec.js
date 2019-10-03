@@ -11,3 +11,4 @@ test("Dashboard should show both the controls and the display", () => {
     expect(getByTestId('controlPanel')).toBeDefined(); 
 })
 
+ 
